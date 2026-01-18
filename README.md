@@ -104,4 +104,4 @@ Each reading is timestamped at 20ms intervals (50 Hz).
 
 Group project for COMP6733 (IoT course)
 
-📄 **[Full Project Report](docs/COMP6733_Final_Report.pdf)** - Detailed documentation of system design, implementation, and evaluation
+📄 **[Full Project Report](docs/final_report.pdf)** - Detailed documentation of system design, implementation, and evaluation
