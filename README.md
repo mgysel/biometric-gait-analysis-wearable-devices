@@ -2,7 +2,7 @@
 
 A complete IoT system for collecting and analyzing human gait patterns using wearable sensors and machine learning for person identification.
 
-📄 **[Full Project Report](docs/COMP6733_Final_Report.pdf)**
+📄 **[Full Project Report](docs/final_report.pdf)**
 
 ## Project Overview
 
